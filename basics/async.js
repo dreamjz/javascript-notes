@@ -10,4 +10,4 @@ async function print() {
 
 print();
 
-console.log("end")
+console.log("end");
